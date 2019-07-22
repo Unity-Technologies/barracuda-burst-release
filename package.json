@@ -1,11 +1,11 @@
 {
     "name": "com.unity.barracuda.burst",
     "displayName": "Barracuda Burst BLAS plugin",
-    "version": "0.2.3-preview",
+    "version": "0.2.4-preview",
     "unity": "2018.1",
     "description": "Barracuda Burst is fast BLAS plugin for Barracuda Neural Net inference library.",
     "dependencies": {
-        "com.unity.burst": "0.2.4-preview.41",
-        "com.unity.barracuda": "0.2.3-preview"
+        "com.unity.burst": "1.1.1",
+        "com.unity.barracuda": "0.2.4-preview"
     }
 }
